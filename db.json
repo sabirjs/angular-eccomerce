@@ -1,0 +1,134 @@
+{
+  "seller": [
+    {
+      "name": "sabir",
+      "email": "sabir@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "sagar",
+      "password": "abc@123",
+      "email": "sagar@gmail.com",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "laptop",
+      "Price": "120000",
+      "Color": "black",
+      "Category": "laptop",
+      "Description": "best",
+      "Image": "https://5.imimg.com/data5/LX/BL/MY-12456799/1-500x500.jpeg",
+      "id": 3
+    },
+    {
+      "name": "tv",
+      "Price": "10000",
+      "Color": "black",
+      "Category": "tv",
+      "Description": "good",
+      "Image": "https://avatars.mds.yandex.net/i?id=e457c39aff02524c186fd5fc21637c84dd52e872-8391913-images-thumbs&n=13",
+      "id": 4
+    },
+    {
+      "name": "tab",
+      "Price": "48000",
+      "Color": "red",
+      "Category": "tab",
+      "Description": "good tab",
+      "Image": "https://cdn-files.kimovil.com/default/0001/37/thumb_36935_default_big.jpeg",
+      "id": 5
+    },
+    {
+      "name": "Truck ",
+      "Price": "1000",
+      "Color": "red",
+      "Category": "Toy",
+      "Description": "good",
+      "Image": "https://images7.alphacoders.com/673/673191.jpg",
+      "id": 6
+    },
+    {
+      "name": "T-shirt",
+      "Price": "500",
+      "Color": "black",
+      "Category": "tshirt",
+      "Description": "awesome",
+      "Image": "https://oriolstore.com/shop/pimg/Black%20Cotton%20T-shirt%203XL-1640890138-2-.jpg",
+      "id": 7
+    },
+    {
+      "name": "Iron Man Suit",
+      "Price": "7000",
+      "Color": "red",
+      "Category": "Suit",
+      "Description": "very nice",
+      "Image": "https://avatars.mds.yandex.net/i?id=9a19042cc479dce767acb7780867a1f3_l-4261963-images-thumbs&ref=rim&n=13&w=700&h=1213",
+      "id": 8
+    },
+    {
+      "name": "Bat Man",
+      "Price": "6000",
+      "Color": "Black",
+      "Category": "Suit",
+      "Description": "Very Good Suit",
+      "Image": "https://i.pinimg.com/originals/dd/a8/c6/dda8c628a6a5b1680fc904d8acecfa85.jpg",
+      "id": 9
+    },
+    {
+      "name": "watch",
+      "Price": "400",
+      "Color": "red",
+      "Category": "watch",
+      "Description": "good",
+      "Image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MP7J3ref_VW_34FR+watch-45-alum-red-nc-8s_VW_34FR_WF_CO_GEO_IN?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660778116741%2C1661969586322",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "Peter",
+      "email": "peter@user.com",
+      "password": "abc@123",
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "name": "watch",
+      "Price": "400",
+      "Color": "red",
+      "Category": "watch",
+      "Description": "good",
+      "Image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MP7J3ref_VW_34FR+watch-45-alum-red-nc-8s_VW_34FR_WF_CO_GEO_IN?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660778116741%2C1661969586322",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 10,
+      "id": 1
+    }
+  ],
+  "orders": [
+    {
+      "email": "tony@user.com",
+      "address": "noida sector 52",
+      "contact": "2222",
+      "totalPrice": 400,
+      "userId": 2,
+      "id": 1
+    }
+  ]
+}
